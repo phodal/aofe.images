@@ -1,0 +1,12 @@
+
+![](basic-color.png)
+![](color-paletter.png)
+![](complex-components.png)
+![](components-mvc.jpg)
+![](components-mvc.sketch)
+![](design-system-architecture.png)
+![](design-system-in-system.jpg)
+![](flexbox.png)
+![](grid-columns-layout.png)
+![](linkedin.png)
+![](md-cards-styleguide.png)
